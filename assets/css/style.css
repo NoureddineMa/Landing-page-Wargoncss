@@ -1,0 +1,18 @@
+#background-video {
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    z-index: -1;
+  }
+  .div-content {
+    margin-top: 11rem !important;
+  }
+  .btn-color {
+    background-color : #76BA99;
+    opacity: 0,2;
+  }
